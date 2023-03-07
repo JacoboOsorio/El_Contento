@@ -1,0 +1,31 @@
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\bin\Debug\El_Contento.exe.config
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\bin\Debug\El_Contento.exe
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\bin\Debug\El_Contento.pdb
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.AssemblyReference.cache
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.SuggestedBindingRedirects.cache
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.Actualizacion.resources
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.Consulta.resources
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.Form1.resources
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.Novedades.resources
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.Properties.Resources.resources
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.GenerateResource.cache
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.CoreCompileInputs.cache
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.exe
+D:\Programacion de software\Taller 2 Semana Ingenieria\El_Contento\El_Contento\obj\Debug\El_Contento.pdb
+C:\Users\zapat\Desktop\El_Contento\El_Contento\bin\Debug\El_Contento.exe.config
+C:\Users\zapat\Desktop\El_Contento\El_Contento\bin\Debug\El_Contento.exe
+C:\Users\zapat\Desktop\El_Contento\El_Contento\bin\Debug\El_Contento.pdb
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.AssemblyReference.cache
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.SuggestedBindingRedirects.cache
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.Actualizacion.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.Consulta.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.Novedades.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.Properties.Resources.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.GenerateResource.cache
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.csproj.CoreCompileInputs.cache
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.exe
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.pdb
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.MaestroMDI.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.MateriaGrupo.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.GruposAlumnos.resources
+C:\Users\zapat\Desktop\El_Contento\El_Contento\obj\Debug\El_Contento.GestionRoles.resources
